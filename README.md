@@ -1,2 +1,2 @@
 # 3SidedDice-Coin-
- IYPT CUPT 2022圆柱形骰子
+ IYPT CYPT 2022圆柱形骰子
